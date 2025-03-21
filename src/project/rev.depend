@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1742301762 source:/home/youri/reversi/bit_mob.cpp
+	"rev.h"
+
+1742389823 /home/youri/reversi/rev.h
+	<stdio.h>
+	<assert.h>
+	<sys/param.h>
+	<stdint.h>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	<cctype>
+	<climits>
+	<cstdint>
+	<algorithm>
+	<chrono>
+	<immintrin.h>
+
+1742301868 source:/home/youri/reversi/eval.cpp
+	"rev.h"
+
+1739246142 source:/home/youri/reversi/flip_bmi2.cpp
+	<x86intrin.h>
+
+1742411500 source:/home/youri/reversi/ginit.cpp
+	"rev.h"
+	"hash.h"
+	<malloc.h>
+	<stdlib.h>
+	<sys/mman.h>
+
+1742481184 /home/youri/reversi/hash.h
+
+1742389784 source:/home/youri/reversi/globals.cpp
+	"rev.h"
+	"hash.h"
+
+1742302700 source:/home/youri/reversi/hash.cpp
+	"rev.h"
+	"hash.h"
+
+1740021209 source:/home/youri/reversi/ODK/GetMove.cpp
+	"../rev.h"
+	"types.h"
+	"GetMove.h"
+	"OsObjects.h"
+	"ggsstream.h"
+
+985877282 /home/youri/reversi/ODK/types.h
+	"crtdbg.h"
+
+985877340 /home/youri/reversi/ODK/GetMove.h
+	"types.h"
+
+1093806701 /home/youri/reversi/ODK/OsObjects.h
+	"types.h"
+	"time.h"
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+985877424 /home/youri/reversi/ODK/ggsstream.h
+	"sockbuf.h"
+	<set>
+	"GGSMessage.h"
+	"OsMessage.h"
+	"OsObjects.h"
+
+1739971132 /home/youri/reversi/ODK/sockbuf.h
+	"types.h"
+	<iostream>
+	<fstream>
+	<sys/socket.h>
+
+985877458 /home/youri/reversi/ODK/GGSMessage.h
+	"types.h"
+	<map>
+	"GGSObjects.h"
+
+1219593266 /home/youri/reversi/ODK/GGSObjects.h
+	"types.h"
+	<iostream>
+	<string>
+	<vector>
+
+1093802215 /home/youri/reversi/ODK/OsMessage.h
+	"types.h"
+	"GGSMessage.h"
+	"OsObjects.h"
+
+1741352952 source:/home/youri/reversi/ODK/GGSmain.cpp
+	"../rev.h"
+	"types.h"
+	"ODKStream.h"
+
+1740020938 /home/youri/reversi/ODK/ODKStream.h
+	"ggsstream.h"
+
+1739969608 source:/home/youri/reversi/ODK/GGSMessage.cpp
+	"../rev.h"
+	"types.h"
+	"GGSMessage.h"
+	<strstream>
+	<iomanip>
+	"ggsstream.h"
+
+1739969616 source:/home/youri/reversi/ODK/GGSObjects.cpp
+	"../rev.h"
+	"types.h"
+	"GGSObjects.h"
+	<strstream>
+
+1739971726 source:/home/youri/reversi/ODK/ggsstream.cpp
+	"../rev.h"
+	"types.h"
+	"ggsstream.h"
+	"GGSMessage.h"
+	"OsMessage.h"
+	<string>
+	<strstream>
+
+1740020873 source:/home/youri/reversi/ODK/ODKStream.cpp
+	"../rev.h"
+	"../hash.h"
+	"types.h"
+	"ODKStream.h"
+	"GGSMessage.h"
+	"OsMessage.h"
+	"GetMove.h"
+	<iostream>
+
+1739969651 source:/home/youri/reversi/ODK/OsMessage.cpp
+	"../rev.h"
+	"types.h"
+	"OsMessage.h"
+	"ggsstream.h"
+	<strstream>
+
+1739972220 source:/home/youri/reversi/ODK/OsObjects.cpp
+	"../rev.h"
+	"types.h"
+	"OsObjects.h"
+	<strstream>
+	<iomanip>
+	"time.h"
+	<ctype.h>
+
+1739973035 source:/home/youri/reversi/ODK/sockbuf.cpp
+	"../rev.h"
+	"types.h"
+	"sockbuf.h"
+	<fstream>
+	<iomanip>
+	<netdb.h>
+
+1742478177 source:/home/youri/reversi/search.cpp
+	"rev.h"
+	"hash.h"
+
+1742390239 source:/home/youri/reversi/sigmas.cpp
+	"rev.h"
+
+1742478285 source:/home/youri/reversi/main.cpp
+	<iostream>
+	"rev.h"
+	"hash.h"
+	<pthread.h>
+	<semaphore.h>
+

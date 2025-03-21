@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="../ODK/ggsstream.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="559" topLine="537" />
+		</Cursor>
+	</File>
+	<File name="../eval.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10595" topLine="214" />
+		</Cursor>
+	</File>
+	<File name="../ODK/OsMessage.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="164" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="49" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="20" />
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="../hash.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5183" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="../ODK/GGSObjects.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="947" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ginit.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37341" topLine="654" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="182" />
+			<Collapse line="189" />
+		</Folding>
+	</File>
+	<File name="../bit_mob.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ODK/GetMove.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ODK/sockbuf.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2086" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="../globals.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../flip_bmi2.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1560" topLine="221" />
+		</Cursor>
+	</File>
+	<File name="../ODK/OsObjects.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1467" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="../search.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19847" topLine="198" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="22" />
+			<Collapse line="52" />
+			<Collapse line="80" />
+			<Collapse line="95" />
+			<Collapse line="106" />
+			<Collapse line="272" />
+			<Collapse line="287" />
+			<Collapse line="305" />
+		</Folding>
+	</File>
+	<File name="../ODK/GGSMessage.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2618" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="../ODK/GGSmain.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1102" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="../sigmas.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="../ODK/ODKStream.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="396" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
