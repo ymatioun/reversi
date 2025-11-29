@@ -34,13 +34,13 @@ public:
 
 
 extern CODKStream gs;
-void pass_message_to_GGS(char *s){// passes message to current game window
-	gs.TellGGS(s);
-}
+//void pass_message_to_GGS(const char *s){// passes message to current game window
+//	gs.TellGGS(s);
+//}
 
-void pass_message_to_GGS0(char *s){// passes message to current game window
-	gs.TellGGS0(s);
-}
+//void pass_message_to_GGS0(const char *s){// passes message to current game window
+//	gs.TellGGS0(s);
+//}
 
 void pass_message_to_game(const char *s){// passes message to current game window
 	gs.PassMessage(s);
@@ -62,7 +62,7 @@ void GetMove(const COsGame& game, COsMoveListItem& mli) {
 	for(int i1=7;i1>=0;--i1)
 		for(int j1=7;j1>=0;--j1){
 			char c1=board.Piece(i1,j1);
-			int a1=0,a2=0;
+			int a1=0;
 			if(board.fBlackMove==true){
 				switch(c1){
 				case '*':
@@ -94,7 +94,7 @@ void GetMove(const COsGame& game, COsMoveListItem& mli) {
 		mli.dEval = 0.; // expected score
 		return;
 	}
-	int mmm = top_solve(std::max(100, (int)(t_rem * 1000 - 1000)));// use t-1 sec, not less than .1
+	int mmm = top_solve(std::max(200, (int)(t_rem * 1000 - 2000)));// use t-2 sec, not less than .2
 	t2 = timeGetTime();
 	mli.tElapsed = (t2 - t1) / 1000.f;// time
 	mli.mv.fPass = false;
